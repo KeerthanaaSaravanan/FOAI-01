@@ -101,6 +101,7 @@ agent.print_status()
 ```
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/02f0313e-7907-4806-afb7-829fd803bcdb)
 
 
 ### RESULT:
