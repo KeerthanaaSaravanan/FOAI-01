@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>EX 01:Developing AI Agent with PEAS Description</H1>
+<H1 ALIGN =CENTER>EX.NO. 01: Developing AI Agent with PEAS Description</H1>
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
 <H3>DATE:</H3>
