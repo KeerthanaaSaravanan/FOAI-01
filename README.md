@@ -1,10 +1,8 @@
-<H1 ALIGN =CENTER>Developing AI Agent with PEAS Description</H1>
+<H1 ALIGN =CENTER>EX 01:Developing AI Agent with PEAS Description</H1>
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
-<H3>EX. NO.1</H3>
 <H3>DATE:</H3>
 <h3>AIM:</h3>
-<br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <h3>Theory</h3>
 <h3>Medicine prescribing agent:</h3>
